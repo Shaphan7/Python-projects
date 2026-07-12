@@ -30,4 +30,8 @@ Self-directed bonus projects.
 ## Practice
 - [Syntax Improvement Practice](syntax-improvement-practice) — intermediate Python syntax drills
 ## Disclaimer
-AI (ChatGPT / Claude) was used for guided debugging, concept explanations, and structuring the project roadmap. All code in the roadmap projects was written by me — AI did not write code directly, only explained concepts and pointed out bugs for me to fix myself. The "Own Ideas" projects were inspired by concepts I came across online (YouTube, Discord, etc.). In some cases I saw existing code at the time, but I never had it open or referenced it while building — by the time I actually wrote each project, it was entirely from memory and my own understanding, not a copy or adaptation of what I'd seen. (and yes AI did write this)
+- AI (ChatGPT / Claude) was used for guided debugging, concept explanations, and structuring the project roadmap.
+- All code in the roadmap projects was written by me — AI did not write code directly, only explained concepts and pointed out bugs for me to fix myself.
+- The "Own Ideas" projects were inspired by concepts I came across online (YouTube, Discord, etc.).
+- In some cases I saw existing code at the time, but I never had it open or referenced it while building — by the time I wrote each project, it was entirely from memory and my own understanding, not a copy or adaptation.
+- (and yes, AI did write this disclaimer)
