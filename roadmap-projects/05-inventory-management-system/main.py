@@ -1,7 +1,7 @@
 from inventory import Inventory
-
 car = Inventory()
 
+# Project: inventory-management-system
 
 def addCar():
     brand = input("Brand: ")
