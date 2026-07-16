@@ -1,6 +1,6 @@
 import math
 numbers = [1, 2, 3, 4, 5]
-
+# Project: stats-calculator
 def findMean(array):
     if not array:
         return "Array cannot be empty"
