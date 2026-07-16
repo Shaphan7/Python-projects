@@ -1,5 +1,7 @@
 from tasks import addTask, showTasks, removeTask, mark_completed
 
+# Project: task-manager-cli
+
 def addTaskValidation():
     name = input("Task Name: ")
     due_date = input("Due date: ")
