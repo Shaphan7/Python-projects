@@ -1,5 +1,5 @@
 import requests
-
+# Project: weather-app
 required_data = ["pressure", "humidity", "description", "temp", "feels_like", "speed"]
 
 def checkWeather():
