@@ -2,6 +2,8 @@ from bank import Bank
 from account import Account
 from transaction import Transaction
 
+# Project: bank-management-system
+
 bank = Bank("SuperSecureBank")
 bank.load()
 def addCustomer():
