@@ -1,6 +1,8 @@
 students = ["Alice", "Bob", "Carol", "Dave", "Eve"]
 scores = [85, 92, 55, 78, 92]
 
+# Project: syntax-improvement-practice
+
 students_score = {student: score for student, score in zip(students, scores)}
 for student, score in students_score.items():
     print(f"{student}: {score}")
