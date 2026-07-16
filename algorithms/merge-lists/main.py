@@ -1,3 +1,5 @@
+# Project: merge-lists
+
 def merge(list_1, list_2):
     list_3 = []
     while list_1 and list_2:
