@@ -1,6 +1,8 @@
 headers = []
 values = []
 
+# Project: cvs-parser-sorter
+
 with open("./data.csv", "r") as file:
     for index, line in enumerate(file):
         if index == 0:
