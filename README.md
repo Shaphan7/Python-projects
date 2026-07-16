@@ -14,6 +14,7 @@ Sequential projects following a structured curriculum, each introducing new conc
 | 08 | [Movie Database](roadmap-projects/08-movie-database) | Multi-file OOP, `getattr`, filtering |
 | 09 | [Task Manager CLI](roadmap-projects/09-task-manager-cli) | `datetime`, JSON persistence, CLI design |
 | 10 | [Library Management System](roadmap-projects/10-library-management-system) | Multi-file OOP, object relationships, `hashlib`/`hmac`/`secrets`, `datetime` cooldowns, JSON persistence |
+| 11 | [Quiz Engine](roadmap-projects/11-quiz-engine) | JSON-driven content, `random` (shuffling), custom exceptions with `raise`/`try`/`except` for control flow, dispatch dicts |
 ## Own Ideas
 Self-directed bonus projects.
 - [Collatz Conjecture](own-ideas/collatz-conjecture)
@@ -23,6 +24,7 @@ Self-directed bonus projects.
 - [Password Generator](own-ideas/password-generator)
 - [Weather App](own-ideas/weather-app) — OpenWeatherMap API
 - [MP3 Player / Converter](own-ideas/mp3-player-converter) — `pygame` audio playback, `ffmpeg` MP4→MP3 conversion via `subprocess`
+- [Deploy Project Tool](own-ideas/deploy-project) — `shutil`/`os` file automation, auto-numbering, comment-based project name detection
 ## Algorithms
 Algorithm practice, built from scratch without reference code.
 - [Merge Sort](algorithms/merge-sort) — `merge()` written and debugged independently
