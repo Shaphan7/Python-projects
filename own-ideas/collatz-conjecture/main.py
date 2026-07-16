@@ -1,4 +1,6 @@
 
+# Project: collatz-conjecture
+
 while True:
     s_number = input("Starting Number: ")
     if not s_number.isdigit():
