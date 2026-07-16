@@ -1,6 +1,8 @@
 import os
 import shutil
 
+# Project: mini-cli-tool
+
 #---------Functions---------#
 def doesFileExist():
     file = input("name: ")
