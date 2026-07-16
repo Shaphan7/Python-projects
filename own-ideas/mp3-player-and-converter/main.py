@@ -3,6 +3,7 @@ os.environ["PYGAME_HIDE_SUPPORT_PROMPT"] = "hide"
 import pygame
 import subprocess
 import shutil
+# Project: mp3-player-and-converter
 
 def converter():
     choice = input("Song or Folder? ").upper().strip()
