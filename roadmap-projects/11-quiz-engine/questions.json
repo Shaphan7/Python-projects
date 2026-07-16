@@ -1,0 +1,87 @@
+[
+    {
+        "type": "mcqs",
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "answer": "Paris"
+    },
+    {
+        "type": "mcqs",
+        "question": "Which data type in Python is immutable?",
+        "options": ["list", "dict", "tuple", "set"],
+        "answer": "tuple"
+    },
+    {
+        "type": "mcqs",
+        "question": "What does 'CPU' stand for?",
+        "options": ["Central Process Unit", "Central Processing Unit", "Computer Personal Unit", "Central Processor Unifier"],
+        "answer": "Central Processing Unit"
+    },
+    {
+        "type": "mcqs",
+        "question": "In chess, how many squares are on the board?",
+        "options": ["32", "48", "64", "100"],
+        "answer": "64"
+    },
+    {
+        "type": "mcqs",
+        "question": "Which of these is NOT a Python built-in data type?",
+        "options": ["list", "tuple", "array", "dict"],
+        "answer": "array"
+    },
+    {
+        "type": "mcqs",
+        "question": "What is the time complexity of binary search?",
+        "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+        "answer": "O(log n)"
+    },
+    {
+        "type": "mcqs",
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "type": "mcqs",
+        "question": "What does 'HTTP' stand for?",
+        "options": ["HyperText Transfer Protocol", "High Transfer Text Protocol", "HyperText Transmission Process", "Host Transfer Text Protocol"],
+        "answer": "HyperText Transfer Protocol"
+    },
+    {
+        "type": "mcqs",
+        "question": "Which method adds an item to the end of a Python list?",
+        "options": ["add()", "append()", "insert()", "extend()"],
+        "answer": "append()"
+    },
+    {
+        "type": "mcqs",
+        "question": "Who developed the Python programming language?",
+        "options": ["Guido van Rossum", "James Gosling", "Dennis Ritchie", "Bjarne Stroustrup"],
+        "answer": "Guido van Rossum"
+    },
+    {
+        "type": "truefalse",
+        "question": "Python is a statically typed language.",
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "A chess bishop can only move diagonally.",
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "Lists in Python are immutable.",
+        "answer": "False"
+    },
+    {
+        "type": "truefalse",
+        "question": "The Earth revolves around the Sun.",
+        "answer": "True"
+    },
+    {
+        "type": "truefalse",
+        "question": "In Python, 'and' has higher precedence than 'or'.",
+        "answer": "True"
+    }
+]
