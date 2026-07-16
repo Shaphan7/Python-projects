@@ -4,6 +4,8 @@ gradebook = {
     "CAROL": {"Math": 91, "Science": 74, "English": 83}
 }
 
+# Project: gradebook-stats-calculator
+
 def student_average(gradebook, givenName):
     grades = gradebook.get(givenName.upper(), None)
     if grades == None:
