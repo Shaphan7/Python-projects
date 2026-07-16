@@ -1,3 +1,5 @@
+# Project: csv-parser-analyzer-class-based
+
 def sumarize(analyzer):
     print(f"Top Score: {analyzer.findTopScore()}")
     print(f"Average Score: {analyzer.findMeanScore()}")
