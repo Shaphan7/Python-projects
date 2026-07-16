@@ -1,5 +1,6 @@
 import os
 import shutil
+# Project: file-organizer
 
 FileTypes = {
     "Img": ['.png', '.jpg', '.ico'],
