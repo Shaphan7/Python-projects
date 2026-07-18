@@ -1,0 +1,10 @@
+[
+    {"product": "Notebook A5", "amount": 5, "seller": "John wick", "date_of_log": "2026-07-17", "price": 16.25},
+    {"product": "Flaming Hot Cheetos", "amount": 50, "seller": "Tom", "date_of_log": "2026-07-17", "price": 149.5},
+    {"product": "Coca-Cola 500ml", "amount": 20, "seller": "Jerry", "date_of_log": "2026-07-17", "price": 35.8},
+    {"product": "Snickers Bar", "amount": 20, "seller": "Spike", "date_of_log": "2026-07-18", "price": 29.8},
+    {"product": "Snickers Bar", "amount": 20, "seller": "Spike", "date_of_log": "2026-07-18", "price": 29.8},
+    {"product": "Snickers Bar", "amount": 20, "seller": "Spike", "date_of_log": "2026-07-18", "price": 29.8},
+    {"product": "USB-C Cable", "amount": 10, "seller": "Bruce Wayne", "date_of_log": "2026-06-05", "price": 65.0},
+    {"product": "Wireless Mouse", "amount": 4, "seller": "Bruce Wayne", "date_of_log": "2026-06-20", "price": 59.96}
+]
