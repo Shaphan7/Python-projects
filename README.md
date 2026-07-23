@@ -26,7 +26,6 @@ Self-directed bonus projects.
 - [Password Generator](own-ideas/password-generator)
 - [Weather App](own-ideas/weather-app) — OpenWeatherMap API
 - [MP3 Player / Converter](own-ideas/mp3-player-converter) — `pygame` audio playback, `ffmpeg` MP4→MP3 conversion via `subprocess`
-- [Deploy Project Tool](own-ideas/deploy-project) — `shutil`/`os` file automation, auto-numbering, comment-based project name detection
 ## Library Projects
 Self-directed projects focused on NumPy, Pandas, Matplotlib, and other data-science tooling.
 - **[Stock Market Simulator & Portfolio Analyzer](library-projects/stocks-market-simulator)** — *first NumPy project.* Vectorized synthetic price generation (random walk, per-stock volatility), `axis`-based statistics (mean/min/max/argmin/argmax), daily % returns via `np.diff`, volatility via `np.std`, buy/sell portfolio tracking, CLI with input validation and dispatch dict
