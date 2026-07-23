@@ -1,0 +1,20 @@
+{
+    "reset-day": 1,
+    "reset-date": "01-07-2026",
+    "limits": {
+        "groceries": 2000,
+        "clothes": 10000,
+        "meds": 5000,
+        "snacks": 1000,
+        "gas": 1500
+    },
+    "category": [
+        "groceries",
+        "meds",
+        "clothes",
+        "snacks",
+        "gas",
+        "bills",
+        "others"
+    ]
+}

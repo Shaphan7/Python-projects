@@ -1,0 +1,23 @@
+[
+    {
+        "id": "7be17618",
+        "amount": 8000,
+        "date": "02-07-2026",
+        "category": "clothes",
+        "note": "For my birthday"
+    },
+    {
+        "id": "2c8c1da7",
+        "amount": 1000,
+        "date": "08-07-2026",
+        "category": "meds",
+        "note": "Got flu"
+    },
+    {
+        "id": "2c8c1da7",
+        "amount": 201,
+        "date": "08-06-2026",
+        "category": "snacks",
+        "note": "Party"
+    }
+]
