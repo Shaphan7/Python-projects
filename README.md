@@ -16,6 +16,7 @@ Sequential projects following a structured curriculum, each introducing new conc
 | 10 | [Library Management System](roadmap-projects/10-library-management-system) | Multi-file OOP, object relationships, `hashlib`/`hmac`/`secrets`, `datetime` cooldowns, JSON persistence |
 | 11 | [Quiz Engine](roadmap-projects/11-quiz-engine) | JSON-driven content, `random` (shuffling), custom exceptions with `raise`/`try`/`except` for control flow, dispatch dicts |
 | 12 | [Store Management System](roadmap-projects/12-store-management-system) | Multi-file object isolation, data cross-referencing (Sales ↔ Inventory ↔ Salesmen), one-pass hashmap-style aggregation (daily/monthly revenue), real-time stock/revenue metrics, multi-database JSON serialization |
+| 13 | [ByteBudget – Expense Tracker](roadmap-projects/13-bytebudget-expense-tracker) | Multi-file app/CLI separation, `datetime` arithmetic for recurring monthly resets (month/year rollover handling), unique ID generation (`uuid`) for safe record deletion, reusable single-category aggregation helper, JSON-based settings/limits persistence, date-filtered data export |
 ## Own Ideas
 Self-directed bonus projects.
 - [Collatz Conjecture](own-ideas/collatz-conjecture)
@@ -29,6 +30,7 @@ Self-directed bonus projects.
 ## Library Projects
 Self-directed projects focused on NumPy, Pandas, Matplotlib, and other data-science tooling.
 - **[Stock Market Simulator & Portfolio Analyzer](library-projects/stocks-market-simulator)** — *first NumPy project.* Vectorized synthetic price generation (random walk, per-stock volatility), `axis`-based statistics (mean/min/max/argmin/argmax), daily % returns via `np.diff`, volatility via `np.std`, buy/sell portfolio tracking, CLI with input validation and dispatch dict
+- **[Student Grade Analyzer](library-projects/student-grade-analyzer)** — *first Pandas project.* DataFrame indexing (`loc`/`iloc`), boolean masking across multiple columns (`.any(axis=1)`), cross-column aggregation (`.sum()`, `.mean()`, `.describe()`), `idxmax`/`idxmin` for row-level lookups, real-world data cleaning (`.replace()`, `.dropna()`, `pd.to_numeric(errors="coerce")`, `.mask()`, `.str` accessor chains, `.duplicated()`), CSV I/O (`read_csv`/`to_csv`)
 ## Algorithms
 Algorithm practice, built from scratch without reference code.
 - [Merge Sort](algorithms/merge-sort) — `merge()` written and debugged independently
